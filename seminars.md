@@ -1,132 +1,113 @@
 \pagebreak
 
-# Seminars
+# MO5151 Seminars
 
-## MO5151 Global Times - Plural Places 1
+* Our module meets every two weeks since the two 20 credit core modules stretch over an entire year. In between the seminars, however, are "surgery sessions" which are optional meetings of one to two hours in the office indicated of the tutor noted on the overview schedule at the regular hours of our class. Think of this as an extra office hour, a chance to get to know tutors and their research better, share ideas with fellow programme students and the tutor about your writing, or jump start a discussion about the readings for the session ahead. Some tutors may offer more structure. 
 
-### Week 1 - Introduction: Transnational as Spatial History? 
+*Note:* the writing workshop session is swapped, taking place in week 10 and the surgery session in week 11 in order to allow you more time after the writing workshop to continue work on your empirical essay.
 
-* Konrad 
+*Readings:* The key readings are available in our online library databases, ebooks, and in some cases in the "short loan" section of the library. Further readings are often in the library available for checking out. However, please be aware that fellow students in the programme may also which to read them and consider sharing the books among yourselves after checking them out or leaving them in the library if there is only a single copy.
 
-### Week 3  - Comparisons, Transfers, and Transnational History 
+*General Notes on Preparation:* Please come to seminar having read at least the "key readings" from week to week. Please be able to say what the main argument of each text was, what examples or case studies it uses to make its argument, and both what your critiques and constructive take away is from the main texts. Consider reading or skimming at least one of the further readings. Always reserve several hours each week to make progress on your assessments and be prepared to talk about your progress on these in class.
 
-* Nikos
+### Week 1 - Introduction: Transnational as Spatial History?  - Konrad
 
-### Week 5  - Working With Scales in History** 
+*Abstract:* This is our opening session. We will talk about the structure of the course, the expectations for the essays, and open with some of the big questions. What are transnational, global, and spatial histories? What brought you to this as a programme?  We will explore each of our interests and evaluate where they might potentially fit in this cluster of fields. Our key readings hint at some of the big questions and problems. 
 
-* Konrad  
+*Preparation:* After tackling the readings, think about your own specific area of interest. What would constitute a global, transnational, or spatial approach to historical problems related to your own area of interest. Do a bit of searching and see if you can identify a work or two that you think might represent this approach and skim it. Be prepared to comment on it when you come to class and if there is extra time we'll discuss them.
+
+*Key Reading:*
+
+Middell, Matthias, and Katja Naumann. “Global History and the Spatial Turn: From the Impact of Area Studies to the Study of Critical Junctures of Globalization.” *Journal of Global History* 5, no. 01 (2010): 149–70.
+
+Kiran Klaus Patel, ["An Emperor without Clothes ? The Debate about Transnational History Twenty-five Years On"](http://www.histoire-politique.fr/index.php?numero=26&rub=pistes&item=32), *Histoire@Politique*, n° 26, mai-août 2015 
+
+Clavin, Patricia. “Time, Manner, Place: Writing Modern European History in Global, Transnational and International Contexts.” *European History Quarterly* 40, no. 4 (October 1, 2010): 624–40.
+
+Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” *The American Historical Review* 121, no. 2 (April 1, 2016): 377–402. doi:10.1093/ahr/121.2.377.
+
+*Further Reading:*
+
+Consider choosing two or three of the following and comparing how the fields of transnational or global history are defined in these works (focus on introductions and conclusions where historiography is discussed):
+
+Iriye, Akira. *Global and Transnational History: The Past, Present, and Future*. Basingstoke: Palgrave Macmillan, 2013.
+
+Saunier, Pierre-Yves. *Transnational History*. Theory and History. Houndmills, Basingstoke: Palgrave Macmillan, 2013.
+
+Simon Macdonald ("Transnational History: a review of past and present scholarship"](https://www.ucl.ac.uk/centre-transnational-history/objectives/simon_macdonald_tns_review) - for the UCL Centre for Transnational History
+
+Conrad, Sebastian. *What Is Global History?* Reprint edition. S.l.: Princeton University Press, 2017.
+
+Crossley, Pamela Kyle. *What Is Global History?* Cambridge: Polity, 2008.
+
+Moyn, Samuel, and Andrew Sartori. *Global Intellectual History*. Columbia University Press, 2013.
+
+Sachsenmaier, Dominic, ed. *Global Perspectives on Global History: Theories and Approaches in a Connected World*. Cambridge, UK; New York: Cambridge University Press, 2011.
+
+Reflect on the kinds of work being published as part of the [Palgrave Macmillan Transnational History Series](https://www.palgrave.com/kr/series/14675) - what do they have in common?
+
+
+### Week 3  - Comparisons, Transfers, and Transnational History - Jordan 
+
+*Key Readings*
+
+C. A. Bayly et al., “AHR Conversation: On Transnational History,” The American Historical Review 111, no. 5 (December 1, 2006): 1441–1464.
+
+Seigel, Micol. “Beyond Compare: Comparative Method after the Transnational Turn.” *Radical History Review* 2005, no. 91 (January 1, 2005): 62–90. doi:10.1215/01636545-2005-91-62.
+
+D. Sachsenmaier, “World History as Ecumenical History?,” *Journal of World History* 18, no. 4 (2007): 465–489.
+
+M. Werner and B. Zimmermann, “Beyond Comparison: Histoire Croisée and the Challenge of Reflexivity”, *History and Theory* 45 (2006): 30-50.
+
+Patricia Clavin, “Defining Transnationalism”, in *Contemporary European History* (Vol. 14, No. 4, Theme Issue: Transnational Communities in European History, 1920-1970, Nov. 2005), pp. 421-439.
+
+*Further Reading*
+	
+Reginer Bittner et al, *Transnationale Räume = Transnational spaces* (Bauhaus, 2007).
+
+Sebastian Conrad, “Enlightenment in Global History: a Historiographical Critique”, in *The American Historical Review* (vol. 117, issue 4), pp. 999-1027.
+
+Heinz-Gerhard Haupt and Jürgen Kocka (eds), *Comparative and Transnational History: Central European Approaches and New Perspectives* (Berghahn, 2009).
+
+Akira Iriye & Pierre-Yves Saunier (eds), *The Palgrave Dictionary of Transnational History* (Basingstoke, Palgrave Macmillan, 2009).
+
+Peter Jackson et al, *Transnational Spaces* (London: Routledge 2004).
+
+Ian Tyrrell, *Transnational Nation: United States history in global perspective since 1789* (Basingstoke, Palgrave Macmillan, 2007).
+
+### Week 5  - Working With Scales in History**  - Konrad
+
+
+
  
-### Week 7 - Transnational Lives** 
+### Week 7 - Transnational Lives**  - Jordan 
 
-* Nikos  
+Key Reading (entire monograph) 
 
-### Week 9 - Networks
+Deacon, Desley, Penny Russell, and Angela Woollacott, eds. *Transnational Lives: Biographies of Global Modernity, 1700-Present*. New York: Palgrave Macmillan, 2010.
 
-* Steve
-   
-### Week 10 - Writing Workshop
+Further Reading
 
-* Konrad    
+L. Auslander, ‘Beyond Words’, *American Historical Review* (2005): 1015-1045.
 
-## MO5152 Global Times - Plural Places 2
+L. Colley, *The Ordeal of Elizabeth Marsh. A Woman in World History* (London, 2007) 
 
-### Week 1 - Thinking Space 
+E. Ho, *The Graves of Tarim. Genealogy and Mobility across the Indian Ocean* (Berkeley, 2006)
 
-* Riccardo  
+U. Poiger, *Jazz, Rock and Rebels, Cold War and American Culture in a divided Germany* (London 2000), especially pp. 31-64.
 
-### Week 3 - Borders and Oceans 
+Constance Bantman and Bert Altena (eds), Reassessing the Transnational Turn: Scales of analysis in Anarchist and Syndicalist Studies (PM Press, 2017)
 
-* Emma  
-
-**Abstract**
-
-This session will focus on examples of French and British imperial expansion and maritime trade in the eighteenth and nineteenth centuries. You are, however, encouraged to read more widely to prepare for the session (engaging with the broader traditions of Atlantic/Mediterranean history, and new work on the Indian and Pacific Oceans). We will relate the examples listed below to the use and meaning(s) of labels such as ‘empire’ and ‘Atlantic world’, and will also discuss how we might conceive of the ocean: was the sea a ‘transnational’ or a ‘global’ space?
-
-**Required reading**
-
-Igler, David. “Diseased Goods: Global Exchanges in the Eastern Pacific Basin, 1770-1850.” *The American Historical Review* 109, no. 3 (June 1, 2004): 693–719. doi:10.1086/587020.
-
-Renaud Morieux, ‘Diplomacy from Below and Belonging: Fishermen and Cross-Channel Relations in the Eighteenth Century’, *Past and Present* 202 (2009): 83-125.
-
-Berry, Stephen, *A Path in the Mighty Waters: Shipboard Life and Atlantic Crossings to the New World* (New Haven, 2015)
-
-Bayly, Christopher A. et al., ‘AHR Conversation: On Transnational History’, *American Historical Review* 111/5 (2006), 1441-1464. [This was set earlier in the course, but we will relate our discussion to the issues raised in this ‘Conversation’, so please revisit it]
-
-Then read as much as you can from at least two of the themed sections below:
- 
-The French and British empires
-P.J. Marshall, The Making and Unmaking of Empires (new edition, Oxford, 2007), Introduction and Chapter 1, ‘British World-Wide Expansion’
-Robert Aldrich, Greater France. A History of French Overseas Expansion (1996), Chapter 1, ‘The First Overseas Empire’
-Frederick Quinn, The French Overseas Empire (Westport, Conn., and London, 2000) – Chapter on the 18th century
-Banks, Kenneth J., Chasing Empire Across the Sea: Communications and the State in the French Atlantic, 1713-1763 (Montreal and Kingston, 2002) ­
-Natasha Glaisyer, ‘Networking: Trade and Exchange in the Eighteenth-century British Empire’, The Historical Journal 47 (2004): 451-476
-Tim Barringer and Tom Flynn (eds), Colonialism and the Object. Empire, Material Culture, and the Museum (New York, 1998)
-Burbank, Jane and Frederick Cooper, Empires in World History. Power and the Politics of Difference (Princeton: Princeton UP, 2010).
-Lorcin, Patricia M. E., ‘Rome and France in Africa: Recovering Colonial Algeria's Latin Past’, French Historical Studies 25: 2 (2002), 295-329.
-Pétré-Grenouilleau, Olivier (ed.), From Slave Trade to Empire: Europe and the Colonisation of Black Africa, 1780s-1880s (London: Routledge, 2004).
-Leonhard, Jörn and Ulrike von Hirschhausen (eds.), Comparing Empires: Encounters and Transfers in the Long Nineteenth Century (Göttingen: Vandenhoeck & Ruprecht, 2011).
- 
-The Sea
-David Cannadine, ‘Introduction’ to Cannadine (ed.), Empire, the Sea, and Global History: Britain’s Maritime World, c. 1760-c.1840 (2007)
-Katherine Foxhall, Health, Medicine, and the Sea. Australian Voyages, c. 1815-60 (Manchester, 2012), Introduction.
-Renaud Morieux, Une mer pour deux royaumes. La Manche, frontière franco-anglaise (XVIIe-XVIIIe siècles) (Rennes, 2008)
- 
-Atlantic World
-Paul Mapp, ‘Atlantic History from Imperial, Continental, and Pacific Perspectives’, William and Mary Quarterly, Third Series, 63, (2006), pp. 713-24
-James Delbourgo and Nicholas Dew (eds), Science and Empire in the Atlantic World (New York and London, 2008) – Introduction
-Jack P Greene and Philip Morgan (eds), Atlantic History: A Critical Reappraisal (Oxford, 2009)
-David Armitage and Michael J. Braddick (eds), The British Atlantic World, 1500-1800 (New York, 2002)
-J.H. Elliott, Empires of the Atlantic World: Britain and Spain in America, 1492-1830 (New Haven, 2007)
-Laurent Dubois, ‘An Enslaved Enlightenment: rethinking the intellectual history of the French Atlantic’, Social History 31(1) (2006): 1-14
-McClellan, James E., and François Regourd, ‘The colonial machine: French science and colonization in the Ancien Régime’, Osiris, new series, 15 (2000), pp. 31-50.
-Special Issue of French History on ‘The French Atlantic and the Caribbean, 1600-1800’, 25:1 (2011).
-Todd, David, ‘A French Imperial Meridian’, Past and Present 210 (2011), 55-186.
-Peabody, Sue and Tyler Stovall (eds.), The Color of Liberty: Histories of Race in France (Durham: Duke UP, 2003)
- 
-Empire and history-writing
-Catherine Hall and Keith McClelland (eds), Race, Nation and Empire: Making Histories, 1750 to the Present (Manchester, 2010) DA1.R2
-Vidale, Cécile, ‘The Reluctance of French Historians to Address Atlantic History’, Southern Quarterly 43 (2006), 153-189.
-Putnam, Lara, ‘To Study the Fragments/whole: Microhistory and the Atlantic World’, Journal of Social History 39 (2006), 615-630.
- 
-The Mediterranean
-Abulafia, David, The Great Sea: A Human History of the Mediterranean (London: Allan Lane, 2011).
-Braudel, Fernand, The Mediterranean and the Mediterranean World in the Age of Philipp II (London: Collins, 1972).
- 
-**The Indian Ocean and the Pacific**
-
-Clare Anderson, Subaltern Lives. Biographies of Colonialism in the Indian Ocean World, 1790-1920 (Cambridge, 2012)
-
-Ghosh, Devleena and Stephen Muecke [2004], ‘Commerce and Culture in the Pre-Colonial Indian Ocean’, in Iwabuchi, K; Muecke, S; Thomas, M (eds), Rogue Flows: Trans -Asian Cultural Traffic, Hong Kong University Press, Hong Kong, China, pp. 13-30.
-
-Ghosh, Devleena and Stephen Muecke [2007]. Cultures of Trade: Indian Ocean Exchanges, Cambridge Scholars, Newcastle.
-
-Igler, David, The Great Ocean: Pacific Worlds from Captain Cook to the Gold Rush. Oxford; New York: Oxford University Press, 2013.
-
-Igler, David. “Diseased Goods: Global Exchanges in the Eastern Pacific Basin, 1770-1850.” The American Historical Review 109, no. 3 (June 1, 2004): 693–719. doi:10.1086/587020.
-
-Liebersohn, Harry. The Travelers’ World: Europe to the Pacific. Cambridge, Mass: Harvard University Press, 2006.
-
-Raj, Kapil [2007]. Relocating Modern Science: Circulation and the Construction of Knowledge in South Asia and Europe, 1650-1900. Basingstoke and New York: Palgrave MacMillan.
-
-Goodall, H., Ghosh, D. & Todd, L. [2008]. ‘Jumping Ship – Skirting Empire: Indians, Aborigines and Australians across the Indian Ocean’, Transforming Cultures eJournal, vol. 3, no. 1, pp. 44-74.
- 
- 
+Michael Peter Smith and Luis Eduardo Guarnizo, Transnationalism from Below (Transaction Publishers, 1998)
 
 
-### Week 5 - Metropolises and Global Cities
+### Week 9 - Networks - Steve 
 
-* Emma    
 
-### Week 7 - Empires and the Transnational
+### Week 10 - Writing Workshop - Dawn
 
-* Akhila 
+This workshop will introduce you to some new ways of thinking about writing as a process: what you do to produce an essay or a dissertation. You will have the chance to think about and discuss your own experiences of writing, and to try out some techniques designed to make the writing process as smooth and pain-free as possible. 
+Please come to the workshop prepared to write. This means you should, at the very least, have an outline/plan of your empirical essay to work with. Please also bring your preferred writing equipment (laptop, tablet, pen and paper) along with you to this session.
 
-### Week 9 - Mental Maps
-
-* Riccardo   
-
-### Week 10 - Writing Workshop 
-
-* Riccardo   
-
+In advance of the session, please have a read of [‘The Perfect Sentence Vortex and How to Escape It’ by Katherine Firth](https://researchvoodoo.wordpress.com/2013/03/05/the-perfect-sentence-vortex-and-how-to-escape-it/) at the Research Voodoo. Beyond this short blog post, the remaining time you would usually spend reading for our seminar should be entirely dedicated to working on your empirical essay. Be sure you make the most of this! 
 

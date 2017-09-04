@@ -1,6 +1,6 @@
-% MO5151 & MO5152 Global Times - Plural Places 1 & 2
-% Module Tutors: K. Lawson, R. Bavaj, E. Hart, S. Murdoch, A. Yechury, N. Papadogiannis
-% Fall and Spring, 2015-6
+% MO5151 Global Times - Plural Places 1
+% Module Tutors: Konrad Lawson, Steve Murdoch, Jordan Girardin, Dawn Hollis
+% Fall, 2017
 
 \begin{center}
 
