@@ -29,7 +29,7 @@ Please carefully read the St Andrews School of History Style Sheet:
 
 http://www.st-andrews.ac.uk/history/infoug/stylesheet.html
 
-This document, sections 1-4, contains extremely valuable information on how to compose your essay, including how to format your footnotes and bibliography. In particular, please follow the instructions for footnotes carefully. See below for more on the simpler citation method for use in the critical review essay and in the final examination.
+This document, sections 1-4, contains extremely valuable information on how to compose your essay, including how to format your footnotes and bibliography. Please note that failure to follow the style sheet can result in penalties on the final mark for the essay.
 
 ### Online Submission
 

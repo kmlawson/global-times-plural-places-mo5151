@@ -1,3 +1,5 @@
+## Reference Information
+
 ### Advice and Support for Students
 
 For advice and support on any issue, including academic, financial, international, personal or health matters, or if you are unsure of who to go to for help, please contact the Advice and Support Centre, 79 North Street, 01334 462020, theasc@st-and.ac.uk.  
@@ -12,7 +14,7 @@ https://www.st-andrews.ac.uk/semesterdates/2017-2018/
 
 We use a 20 point marking scale for your assignments. For more on interpreting the marking scale, see the School of History marking scale for taught Postgraduates:
 
-http://www.st-andrews.ac.uk/history/infopg/ipgmarkingscale.html
+https://www.st-andrews.ac.uk/history/infopg/ipgassess.html
 
 ### Good Academic Practice
 

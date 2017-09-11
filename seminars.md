@@ -2,7 +2,7 @@
 
 # MO5151 Seminars
 
-* Our module meets every two weeks since the two 20 credit core modules stretch over an entire year. In between the seminars, however, are "surgery sessions" which are optional meetings of one to two hours in the office indicated of the tutor noted on the overview schedule at the regular hours of our class. Think of this as an extra office hour, a chance to get to know tutors and their research better, share ideas with fellow programme students and the tutor about your writing, or jump start a discussion about the readings for the session ahead. Some tutors may offer more structure. 
+Our module meets every two weeks since the two 20 credit core modules stretch over an entire year. In between the seminars, however, are "surgery sessions" which are optional meetings of one to two hours in the office indicated of the tutor noted on the overview schedule at the regular hours of our class. Think of this as an extra office hour, a chance to get to know tutors and their research better, share ideas with fellow programme students and the tutor about your writing, or jump start a discussion about the readings for the session ahead. Some tutors may offer more structure. 
 
 *Note:* the writing workshop session is swapped, taking place in week 10 and the surgery session in week 11 in order to allow you more time after the writing workshop to continue work on your empirical essay.
 
@@ -46,6 +46,7 @@ Sachsenmaier, Dominic, ed. *Global Perspectives on Global History: Theories and 
 
 Reflect on the kinds of work being published as part of the [Palgrave Macmillan Transnational History Series](https://www.palgrave.com/kr/series/14675) - what do they have in common?
 
+* Week 2 surgery week with Konrad
 
 ### Week 3  - Comparisons, Transfers, and Transnational History - Jordan 
 
@@ -75,18 +76,74 @@ Peter Jackson et al, *Transnational Spaces* (London: Routledge 2004).
 
 Ian Tyrrell, *Transnational Nation: United States history in global perspective since 1789* (Basingstoke, Palgrave Macmillan, 2007).
 
-### Week 5  - Working With Scales in History**  - Konrad
+* Week 4 surgery session with Konrad
 
+### Week 5  - Working With Scales in History - Konrad
 
+Abstract: Is global history necessarily large or big history? At what level, size and scale can or should global and transnational history be practiced? How and where are global connections and transnational “objects” (people, ideas, commodities) best studied? How can the different levels of analysis and empirical work across borders, countries and cultures be connected? These are some of the main questions we wish to address in this session.
 
+*Key Reading*
+
+Struck, Bernhard, Kate Ferris, Jacques Revel, ‘Introduction. Space and Scale in Transnational History’, in *International History Review* Dec 2011 33.4 573-584.
+
+Andrade, Tonio. “A Chinese Farmer, Two African Boys; and a Warlord: Toward a Global Microhistory.” *Journal of World History* 21, no. 4 (December 2010): 573
+
+A Burton,  “Not Even Remotely Global? Method and Scale in World History.” *History Workshop Journal* 64, no. 1 (2007): 323 –328. 
+
+Harrison, Henrietta. “‘A Penny for the Little Chinese’: The French Holy Childhood Association in China, 1843–1951” *The American Historical Review* 113, no. 1 (February 1, 2008): 72–92. doi:10.1086/ahr.113.1.72.
+
+Peltonen, Matti, ‘Clues, Margins, and Monads: The Micro-Macro Link in Historical Research’, *History and Theory*, 40(3) 2001, 347-359.
+
+Pomeranz, Kenneth. “Social History and World History: From Daily Life to Patterns of Change.” *Journal of World History* 18, no. 1 (March 1, 2007): 69–98.
+
+Rüger, Jan, ‘OXO: Or, the Challenges of Transnational History’, *European History Quarterly* 40/4 (2010), 656-668
+
+Aslanian, Sebouh David, Joyce E. Chaplin, Ann McGrath, and Kristin Mann. “AHR Conversation How Size Matters: The Question of Scale in History.” *The American Historical Review* 118, no. 5 (December 1, 2013): 1431–72. doi:10.1093/ahr/118.5.1431.
+
+*Further Reading*
+
+Olstein, Diego Adrián. *Thinking History Globally*, 2015.
+
+James S. Coleman, *Foundations of Social Theory* (Cambridge Mass: Belkanp Press 1990), especially 1-23.
+
+Few, Martha. “Circulating Smallpox Knowledge: Guatemalan Doctors, Maya Indians and Designing Spain’s Smallpox Vaccination Expedition, 1780–1803.” *The British Journal for the History of Science* 43, no. Special Issue 04 (2010): 519–37.
+
+Carlo Ginzburg, John Tedeschi and Anne C. Tedeschi, ‘Microhistory: Two or Three Things That I Know about It’, *Critical Inquiry*, 20(1) 1993, 10-35 (online)
+
+Brad Gregory, ‘Is Small Beautiful? Micro-history and the History of Everyday Life’, *History and Theory* 1/38 (1999), 100-110
+
+David Igler, “Commentary: Re-Orienting Asian American History through Transnational and International Scales.” *Pacific Historical Review* 76, no. 4 (November 1, 2007): 611–14. doi:10.1525/phr.2007.76.4.611.
+
+Pieter Judson, *Guardians of the Nation. Activists on the Language Frontiers of Imperial Austria* (Cambridge Mass: Harvard University Press, 2006), ch. 1 and 7.
  
-### Week 7 - Transnational Lives**  - Jordan 
+Jill Lepore, ‘Historians Who Love Too Much: Reflections on Microhistory and Biography. *The Journal of American History*, 88(1) 2001, 129-144
+ 
+Giovanni Levi, ‘On Microhistory’, Peter Burke (ed), *New Perspectives on Historical Writing* (Cambridge: Cambridge University Press 1991), 93-113
+ 
+Alf Lüdtke ‘Introduction’ in A. Lüdtke (ed), *The History of Everyday Life Reconstructing Historical Experiences and Ways of Life* (Princeton: Princeton University Press 1995)
+ 
+Sigurdur Gylfi Magnússon, “‘The Singularization of History’: Social History and Microhistory within the Postmodern State of Knowledge,” *Journal of Social History* 36, no. 3 (Spring 2003): 701-735 (online)
+ 
+Edward Muir, Guido Ruggiero (eds), *Microhistory and the Lost Peoples of Europe* (Baltimore, Md: Johns Hopkins University Press, 1991), Introduction and ch. 1
+ 
+Jacques Revel, ‘Microanalysis and the Construction of the Social’, in Lynn Hunt, Jacques Revel (eds), *Histories. French Constructions of the Past* (New York: New York Press, 1995), 492-502.
+ 
+Schmid, Andre. “Colonialism and the ‘Korea Problem’ in the Historiography of Modern Japan: A Review Article.” *The Journal of Asian Studies* 59, no. 4 (November 1, 2000): 951–76.
+ 
+Streets-Salter, Heather. “The Local Was Global: The Singapore Mutiny of 1915.” *Journal of World History* 24, no. 3 (2013): 539–76. doi:10.1353/jwh.2013.0066
+ 
+Jonathan H. Turner, ‘A New Approach for Theoretically Integrating Micro and Macro Analysis’ in: Craig Calhoun et al (eds), *The Sage Handbook of Sociology* (London: Sage Publications), 405-422
 
-Key Reading (entire monograph) 
 
-Deacon, Desley, Penny Russell, and Angela Woollacott, eds. *Transnational Lives: Biographies of Global Modernity, 1700-Present*. New York: Palgrave Macmillan, 2010.
+* No meeting in week 6, Independent Learning Week
+ 
+### Week 7 - Transnational Lives - Jordan 
 
-Further Reading
+*Key Reading (entire monograph)*
+
+Deacon, Desley, Penny Russell, and Angela Woollacott, eds. *Transnational Lives: Biographies of Global Modernity, 1700-Present*. New York: Palgrave Macmillan, 2010. - The PDF for this book is available through the Library's subscription to Springer ebooks. Try [this link](https://link.springer.com/book/10.1057/9780230277472) or search on [SpringerLink](https://link.springer.com/)
+
+*Further Reading*
 
 L. Auslander, ‘Beyond Words’, *American Historical Review* (2005): 1015-1045.
 
@@ -100,14 +157,29 @@ Constance Bantman and Bert Altena (eds), Reassessing the Transnational Turn: Sca
 
 Michael Peter Smith and Luis Eduardo Guarnizo, Transnationalism from Below (Transaction Publishers, 1998)
 
+* Week 8 surgery session with Steve
 
 ### Week 9 - Networks - Steve 
 
+*Online Task:*
+
+Spend some time exploring the following website:
+	http://www.culturesofknowledge.org/
+
+*Key Reading*
+
+Hans Cools, Marika Keblusek & Badeloch Noldus (eds.,), *Your humble servant : agents in early modern Europe* (Hilversum, 2006) introduction and chapter by Badeloch Noldus
+
+S. Murdoch, *Network North: Scottish Kin, Commercial and Covert Associations in Northern Europe, 1603-1746* (Brill, 2006), Introduction  and chapter two.
+ 
+S. Murdoch, ‘Oxenstierna’s Spies: Sir James Spens and the organisation of Covert Operations in early Seventeenth-century Sweden’ in Daniel Szechi (ed.), *The Dangerous Trade: Spies, Spymasters and the Making of Europe* (Dundee University Press, 2010), pp.45-65. A commissioned rewrite by Dan Szechi of a chapter from Network North specifically to address Your Humble Servant (noted above).
 
 ### Week 10 - Writing Workshop - Dawn
 
 This workshop will introduce you to some new ways of thinking about writing as a process: what you do to produce an essay or a dissertation. You will have the chance to think about and discuss your own experiences of writing, and to try out some techniques designed to make the writing process as smooth and pain-free as possible. 
+
 Please come to the workshop prepared to write. This means you should, at the very least, have an outline/plan of your empirical essay to work with. Please also bring your preferred writing equipment (laptop, tablet, pen and paper) along with you to this session.
 
 In advance of the session, please have a read of [‘The Perfect Sentence Vortex and How to Escape It’ by Katherine Firth](https://researchvoodoo.wordpress.com/2013/03/05/the-perfect-sentence-vortex-and-how-to-escape-it/) at the Research Voodoo. Beyond this short blog post, the remaining time you would usually spend reading for our seminar should be entirely dedicated to working on your empirical essay. Be sure you make the most of this! 
 
+* Week 11 surgery session with Konrad
