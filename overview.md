@@ -18,7 +18,7 @@ Week 6 - *Independent Learning Week*
 *Essay 1 Due Thu, 19 Oct (1,000 words, historiographical essay)*  
 Week 7 - **Transnational Lives** - **Jordan**  
 Week 8 - Surgery Session - **Steve**  
-Week 9 - **Networks** - **Steve**  
+Week 9 - **Networks** - **Steve**  - Special time: from 12:00-13:00  
 Week 10 - **Writing Workshop** - **Dawn**  
 Week 11 - Surgery Session - **Konrad**  
 *Essay 2 Due Fri, 8 Dec (3,000 words, empirical research essay)*  
@@ -53,7 +53,7 @@ All individual module seminars and surgery sessions are in the office of the rel
 
 **Coordinator:** Konrad M. Lawson **Email:** kml8@  
 **Office:** St. Katharine's Lodge Room B3  
-**Office Hours:** Thursday 16:00-17:00  
+**Office Hours:** Thursday 16:00-17:00  (please sign up)
 
 
 *All offices are in St. Katharine's Lodge unless otherwise noted*
@@ -79,7 +79,7 @@ MO5151 is part of a two-part core component for the MLitt in Transnational and S
 
 *Note:* Word limits include footnotes but not bibliography.
 
-*19 Oct - 1,000 word historiographical essay*
+*19 Oct - 1,000 word historiographical essay* (25%)
 
 This first short essay should choose a theme or question addressing some aspect of transnational, global, or spatial history. You may take one of three approaches: 1) choose a theme and give an overview of different scholarly approaches to it, making an argument around what you believe is to be a preferred approach, common strengths or weaknesses, or shows promise for new directions. 2) You may focus in on a single key work on a theme and evaluate it in the light of other related scholarship. This must not simply be a book review, this should connect the work actively to other scholarship around your own argument. 3) identify a key concrete example (a context, a location, a set of figures or community, etc.) which has not received much direct scholarly attention and then suggest the various ways that existing scholarship on related questions or comparable contexts might inform research on this particular case. You do not need to do any significant primary source research on the particular case beyond the minimum necessarily to establish the context. You may choose a theme or topic related to, ideally at a more general level, the research for the empirical research essay in order to get you started on it, but you may not, of course, use any of the text of the essay itself for the second essay.
 
@@ -92,7 +92,7 @@ This essay is most of all a challenge due to its short word limit. One of the sk
 * Have I focused in on a small number of key points rather than making many less well-developed points?
 * Have I gone over the essay and cut all sentences which are not essential for the argument or the set up, and made use of the space allowed to strengthen and develop specific points or the general argument as much as possible?
 
-*8 Dec - 3,000 word empirical research essay*
+*8 Dec - 3,000 word empirical research essay* (75%)
 
 This essay should apply what you have learned so far and explore a question or theme related to transnational, global, or spatial history but do so empirically, that is, make use of historical primary sources to develop and argument about a particular case or answer a more focused analytical question. It should, of course, engage with existing historiography but is a chance for you to practice the skills of conducting your own original research on an area of transnational global, or spatial history. Please look to historical journals for examples of how journal articles focus in on a particular case and develop an argument around it. Again, however, the limited space you have for this essay makes it essential that you use your space wisely, choose a focus that allows you to develop points in depth, and not try to do too many different things in your essay.
 

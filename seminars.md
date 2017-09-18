@@ -157,7 +157,7 @@ Constance Bantman and Bert Altena (eds), Reassessing the Transnational Turn: Sca
 
 Michael Peter Smith and Luis Eduardo Guarnizo, Transnationalism from Below (Transaction Publishers, 1998)
 
-* Week 8 surgery session with Steve
+* Week 8 surgery session with Steve but will take place from 12:00-13:00 this week
 
 ### Week 9 - Networks - Steve 
 

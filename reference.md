@@ -6,9 +6,9 @@ For advice and support on any issue, including academic, financial, internationa
 
 ### Semester Dates
 
-The Semester Dates for 2017-2018 are available at:  
+The Semester Dates are available at:  
 
-https://www.st-andrews.ac.uk/semesterdates/2017-2018/
+https://www.st-andrews.ac.uk/semesterdates/
 
 ### Marking Scale
 
@@ -26,7 +26,7 @@ Attendance is a basic assessment requirement for credit award, and failure to at
 
 Please read the university policy on student absences:
 
-https://www.st-andrews.ac.uk/media/teaching-and-learning/policies/Student%20Absence.pdf
+https://www.st-andrews.ac.uk/students/rules/selfcertification/
 
 ### Disability Support
 
