@@ -1,6 +1,6 @@
 % MO5151 Global Times - Plural Places 1
-% Module Tutors: Konrad Lawson, Steve Murdoch, Jordan Girardin, Dawn Hollis
-% Fall, 2017
+% Module Tutors: Konrad Lawson, Sarah Frank, John Clark, Bernhard Struck, Dawn Hollis
+% Fall, 2018
 \begin{center}
 \makebox[\textwidth]{\includegraphics[width=15cm]{shiseido.png}}
 \textbf{1927, Shiseido Poster }   
