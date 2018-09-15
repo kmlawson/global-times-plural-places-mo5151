@@ -64,6 +64,8 @@ Patricia Clavin, “Defining Transnationalism”, in *Contemporary European Hist
 
 W. J. Boot, “A Tale of Two Cities: Edo and Paris,” *Journal of the Economic and Social History of the Orient* 40, no. 1 (January 1, 1997): 90–106.
 
+Supriya Chaudhuri et al *Commodities and Culture in the Colonial World* - If this new book has arrived in the library, we will have some short presentations on selected chapters.
+
 *Further Reading*
 
 Deborah Cohen and Maura O’Connor, eds., *Comparison and History: Europe in Cross-National Perspective*, 1st ed. (Routledge, 2003).
