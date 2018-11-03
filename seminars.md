@@ -2,7 +2,7 @@
 
 # MO5151 Seminars
 
-Our module meets officially only every two weeks since the two 20 credit core modules together stretch over an entire year. In between the seminars, however, are "surgery sessions" which are optional meetings of one to two hours in the office indicated of the tutor noted on the overview schedule at the regular hours of our class. Think of this as an extra office hour, a chance to get to know tutors and their research better, share ideas with fellow programme students and the tutor about your writing, or jump start a discussion about the readings for the session ahead. Some tutors may offer more structure. 
+Our module meets officially only every two weeks since the two 20 credit core modules together stretch over an entire year. In between the seminars, however, are "surgery sessions" which are optional meetings of one to two hours in the office indicated of the tutor noted on the overview schedule at the regular hours of our class. Think of this as an extra office hour, a chance to get to know tutors and their research better, share ideas with fellow programme students and the tutor about your writing, or jump start a discussion about the readings for the session ahead. Some tutors may offer more structure.
 
 *Readings:* The key readings are available in our online library databases, ebooks, and in some cases in the "short loan" section of the library. Further readings are often in the library available for checking out. However, please be aware that fellow students in the programme may also which to read them and consider sharing the books among yourselves after checking them out or leaving them in the library if there is only a single copy.
 
@@ -10,7 +10,7 @@ Our module meets officially only every two weeks since the two 20 credit core mo
 
 ## Week 1 - Introduction: Transnational as Spatial History?  - Konrad Lawson
 
-*Abstract:* This is our opening session. We will talk about the structure of the course, the expectations for the essays, and open with some of the big questions. What are transnational, global, and spatial histories? What brought you to this as a programme?  We will explore each of our interests and evaluate where they might potentially fit in this cluster of fields. Our key readings hint at some of the big questions and problems. 
+*Abstract:* This is our opening session. We will talk about the structure of the course, the expectations for the essays, and open with some of the big questions. What are transnational, global, and spatial histories? What brought you to this as a programme?  We will explore each of our interests and evaluate where they might potentially fit in this cluster of fields. Our key readings hint at some of the big questions and problems.
 
 *Preparation:* After tackling the readings, think about your own specific area of interest. What would constitute a global, transnational, or spatial approach to historical problems related to your own area of interest. Do a bit of searching and see if you can identify a work or two that you think might represent this approach and skim it. Be prepared to comment on it when you come to class and if there is extra time we'll discuss them.
 
@@ -18,11 +18,11 @@ Our module meets officially only every two weeks since the two 20 credit core mo
 
 Middell, Matthias, and Katja Naumann. “Global History and the Spatial Turn: From the Impact of Area Studies to the Study of Critical Junctures of Globalization.” *Journal of Global History* 5, no. 01 (2010): 149–70.
 
-Kiran Klaus Patel, ["An Emperor without Clothes ? The Debate about Transnational History Twenty-five Years On"](http://www.histoire-politique.fr/index.php?numero=26&rub=pistes&item=32), *Histoire@Politique*, n° 26, mai-août 2015 
+Kiran Klaus Patel, ["An Emperor without Clothes ? The Debate about Transnational History Twenty-five Years On"](http://www.histoire-politique.fr/index.php?numero=26&rub=pistes&item=32), *Histoire@Politique*, n° 26, mai-août 2015
 
 Clavin, Patricia. “Time, Manner, Place: Writing Modern European History in Global, Transnational and International Contexts.” *European History Quarterly* 40, no. 4 (October 1, 2010): 624–40.
 
-Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” *The American Historical Review* 121, no. 2 (April 1, 2016): 377–402. 
+Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” *The American Historical Review* 121, no. 2 (April 1, 2016): 377–402.
 
 *Further Reading:*
 
@@ -48,13 +48,13 @@ Reflect on the kinds of work being published as part of the [Palgrave Macmillan 
 
 ## Week 3  - Comparisons, Transfers, and Transnational History - Konrad Lawson
 
-*Abstract:* This week we will explore some of the differing perspectives on what constitutes transnational history and some of the challenges and obstacles to comparative history. 
+*Abstract:* This week we will explore some of the differing perspectives on what constitutes transnational history and some of the challenges and obstacles to comparative history.
 
 *Key Readings*
 
 C. A. Bayly et al., “AHR Conversation: On Transnational History,” The American Historical Review 111, no. 5 (December 1, 2006): 1441–1464.
 
-Seigel, Micol. “Beyond Compare: Comparative Method after the Transnational Turn.” *Radical History Review* 2005, no. 91 (January 1, 2005): 62–90. 
+Seigel, Micol. “Beyond Compare: Comparative Method after the Transnational Turn.” *Radical History Review* 2005, no. 91 (January 1, 2005): 62–90.
 
 D. Sachsenmaier, “World History as Ecumenical History?,” *Journal of World History* 18, no. 4 (2007): 465–489.
 
@@ -69,7 +69,7 @@ Supriya Chaudhuri et al *Commodities and Culture in the Colonial World* - If thi
 *Further Reading*
 
 Deborah Cohen and Maura O’Connor, eds., *Comparison and History: Europe in Cross-National Perspective*, 1st ed. (Routledge, 2003).
-	
+
 Reginer Bittner et al, *Transnationale Räume = Transnational spaces* (Bauhaus, 2007).
 
 Sebastian Conrad, “Enlightenment in Global History: a Historiographical Critique”, in *The American Historical Review* (vol. 117, issue 4), pp. 999-1027.
@@ -84,39 +84,41 @@ Ian Tyrrell, *Transnational Nation: United States history in global perspective 
 
 * Week 4 surgery session with Sarah Frank
 
+\pagebreak
+
 ## Week 5  - Working With Scales in History - Sarah Frank
 
 *Abstract*: Is global history necessarily large or big history? At what level, size and scale can or should global and transnational history be practiced? How and where are global connections and transnational “objects” (people, ideas, commodities) best studied? How can the different levels of analysis and empirical work across borders, countries and cultures be connected? These are some of the main questions we wish to address in this session.
 
 *Key Reading*
 
-Struck, Bernhard, Kate Ferris, Jacques Revel, ‘Introduction. Space and Scale in Transnational History’, in *International History Review* Dec 2011 33.4 573-584.
-
 Moyn and Sartori *Global Intellectual History* [Library ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=1103450)   
 Ch 1 but especially pages 9-20  
 Ch 8 “On the Nonglobalization of Ideas”  
 Ch 10 “Putting Global Intellectual History in Its Place”
 
-David Armitage *Foundations of Modern International Thought* [Library ebook](http://lib.myilibrary.com/?id=421194)  
-Ch 1 “The International Turn in Intellectual History” 
-
-Andrade, Tonio. “A Chinese Farmer, Two African Boys; and a Warlord: Toward a Global Microhistory.” *Journal of World History* 21, no. 4 (December 2010): 573
-
-A Burton,  “Not Even Remotely Global? Method and Scale in World History.” *History Workshop Journal* 64, no. 1 (2007): 323 –328. 
-
-Harrison, Henrietta. “‘A Penny for the Little Chinese’: The French Holy Childhood Association in China, 1843–1951” *The American Historical Review* 113, no. 1 (February 1, 2008): 72–92. 
-
-Peltonen, Matti, ‘Clues, Margins, and Monads: The Micro-Macro Link in Historical Research’, *History and Theory*, 40(3) 2001, 347-359.
+Rüger, Jan, ‘OXO: Or, the Challenges of Transnational History’, *European History Quarterly* 40/4 (2010), 656-668
 
 Pomeranz, Kenneth. “Social History and World History: From Daily Life to Patterns of Change.” *Journal of World History* 18, no. 1 (March 1, 2007): 69–98.
 
-Rüger, Jan, ‘OXO: Or, the Challenges of Transnational History’, *European History Quarterly* 40/4 (2010), 656-668
+*Then choose two of the following to read:*
 
-Aslanian, Sebouh David, Joyce E. Chaplin, Ann McGrath, and Kristin Mann. “AHR Conversation How Size Matters: The Question of Scale in History.” *The American Historical Review* 118, no. 5 (December 1, 2013): 1431–72. 
+David Armitage *Foundations of Modern International Thought* [Library ebook](http://lib.myilibrary.com/?id=421194)  
+Ch 1 “The International Turn in Intellectual History”
+
+Andrade, Tonio. “A Chinese Farmer, Two African Boys; and a Warlord: Toward a Global Microhistory.” *Journal of World History* 21, no. 4 (December 2010): 573
+
+A Burton,  “Not Even Remotely Global? Method and Scale in World History.” *History Workshop Journal* 64, no. 1 (2007): 323 –328.
+
+Harrison, Henrietta. “‘A Penny for the Little Chinese’: The French Holy Childhood Association in China, 1843–1951” *The American Historical Review* 113, no. 1 (February 1, 2008): 72–92.
+
+Peltonen, Matti, ‘Clues, Margins, and Monads: The Micro-Macro Link in Historical Research’, *History and Theory*, 40(3) 2001, 347-359.
+
+Aslanian, Sebouh David, Joyce E. Chaplin, Ann McGrath, and Kristin Mann. “AHR Conversation How Size Matters: The Question of Scale in History.” *The American Historical Review* 118, no. 5 (December 1, 2013): 1431–72.
+
+Robinson, Olivia ‘Travelling Ayahs of the Nineteenth and Twentieth Centuries: Global Networks and Mobilization of Agency’, *History Workshop Journal*, 24 July 2018, [DOI](https://doi.org/10.1093/hwj/dby016)
 
 *Further Reading*
-
-Olivia Robinson, ‘Travelling Ayahs of the Nineteenth and Twentieth Centuries: Global Networks and Mobilization of Agency’, *History Workshop Journal*, 24 July 2018, [DOI](https://doi.org/10.1093/hwj/dby016)
 
 Olstein, Diego Adrián. *Thinking History Globally*, 2015.
 
@@ -128,29 +130,31 @@ Carlo Ginzburg, John Tedeschi and Anne C. Tedeschi, ‘Microhistory: Two or Thre
 
 Brad Gregory, ‘Is Small Beautiful? Micro-history and the History of Everyday Life’, *History and Theory* 1/38 (1999), 100-110
 
-David Igler, “Commentary: Re-Orienting Asian American History through Transnational and International Scales.” *Pacific Historical Review* 76, no. 4 (November 1, 2007): 611–14. 
+David Igler, “Commentary: Re-Orienting Asian American History through Transnational and International Scales.” *Pacific Historical Review* 76, no. 4 (November 1, 2007): 611–14.
 
 Pieter Judson, *Guardians of the Nation. Activists on the Language Frontiers of Imperial Austria* (Cambridge Mass: Harvard University Press, 2006), ch. 1 and 7.
- 
+
 Jill Lepore, ‘Historians Who Love Too Much: Reflections on Microhistory and Biography. *The Journal of American History*, 88(1) 2001, 129-144
- 
+
 Giovanni Levi, ‘On Microhistory’, Peter Burke (ed), *New Perspectives on Historical Writing* (Cambridge: Cambridge University Press 1991), 93-113
- 
+
 Alf Lüdtke ‘Introduction’ in A. Lüdtke (ed), *The History of Everyday Life Reconstructing Historical Experiences and Ways of Life* (Princeton: Princeton University Press 1995)
- 
+
 Sigurdur Gylfi Magnússon, “‘The Singularization of History’: Social History and Microhistory within the Postmodern State of Knowledge,” *Journal of Social History* 36, no. 3 (Spring 2003): 701-735 (online)
- 
+
 Edward Muir, Guido Ruggiero (eds), *Microhistory and the Lost Peoples of Europe* (Baltimore, Md: Johns Hopkins University Press, 1991), Introduction and ch. 1
- 
+
 Jacques Revel, ‘Microanalysis and the Construction of the Social’, in Lynn Hunt, Jacques Revel (eds), *Histories. French Constructions of the Past* (New York: New York Press, 1995), 492-502.
- 
-Streets-Salter, Heather. “The Local Was Global: The Singapore Mutiny of 1915.” *Journal of World History* 24, no. 3 (2013): 539–76. 
- 
+
+Streets-Salter, Heather. “The Local Was Global: The Singapore Mutiny of 1915.” *Journal of World History* 24, no. 3 (2013): 539–76.
+
 Jonathan H. Turner, ‘A New Approach for Theoretically Integrating Micro and Macro Analysis’ in: Craig Calhoun et al (eds), *The Sage Handbook of Sociology* (London: Sage Publications), 405-422
 
+Struck, Bernhard, Kate Ferris, Jacques Revel, ‘Introduction. Space and Scale in Transnational History’, in *International History Review* Dec 2011 33.4 573-584.
+
 * No meeting in week 6, which is Independent Learning Week - please begin research on your empirical essay
- 
-## Week 7 - Transnational Lives - Bernhard 
+
+## Week 7 - Transnational Lives - Bernhard
 
 *Key Reading (entire monograph)*
 
@@ -216,11 +220,11 @@ Kenneth Pomeranz, *The Great Divergence* (2000)
 
 ## Week 10 - Writing Workshop - Dawn Hollis
 
-This workshop will introduce you to some new ways of thinking about writing as a process: what you do to produce an essay or a dissertation. You will have the chance to think about and discuss your own experiences of writing, and to try out some techniques designed to make the writing process as smooth and pain-free as possible. 
+This workshop will introduce you to some new ways of thinking about writing as a process: what you do to produce an essay or a dissertation. You will have the chance to think about and discuss your own experiences of writing, and to try out some techniques designed to make the writing process as smooth and pain-free as possible.
 
 Please come to the workshop prepared to write. This means you should, at the very least, have an outline/plan of your empirical essay to work with. Please also bring your preferred writing equipment (laptop, tablet, pen and paper) along with you to this session.
 
-In advance of the session, please have a read of [‘The Perfect Sentence Vortex and How to Escape It’ by Katherine Firth](https://researchvoodoo.wordpress.com/2013/03/05/the-perfect-sentence-vortex-and-how-to-escape-it/) at the Research Voodoo. Beyond this short blog post, the remaining time you would usually spend reading for our seminar should be entirely dedicated to working on your empirical essay. Be sure you make the most of this! 
+In advance of the session, please have a read of [‘The Perfect Sentence Vortex and How to Escape It’ by Katherine Firth](https://researchvoodoo.wordpress.com/2013/03/05/the-perfect-sentence-vortex-and-how-to-escape-it/) at the Research Voodoo. Beyond this short blog post, the remaining time you would usually spend reading for our seminar should be entirely dedicated to working on your empirical essay. Be sure you make the most of this!
 
 ## Week 11 Networks - Konrad Lawson
 
@@ -238,7 +242,7 @@ S. Murdoch, *Network North: Scottish Kin, Commercial and Covert Associations in 
 
 *Choose one of the following chapters and be prepared to give a short five minute presentation:*  
 
-Rodogno, Struck, Vogel, *Shaping the Transnational Sphere: Experts, Networks and Issues from the 1840s to the 1930s* 
+Rodogno, Struck, Vogel, *Shaping the Transnational Sphere: Experts, Networks and Issues from the 1840s to the 1930s*
 
 Ch 2 Sanitizing the City: The Transnational Work and Networks of French Sanitary Engineers, 1890s-1930s  
 Ch 5 Building a Transnational Network of Social Reform in the Nineteenth Century  
@@ -260,9 +264,9 @@ Wolfram Kaiser, “Transnational Networks in European Governance,” in The Hist
 
 L. W. B Brockliss, Calvet’s Web: Enlightenment and the Republic of Letters in Eighteenth-Century France (Oxford; New York: Oxford University Press, 2002).
 
-L. W. B Brockliss, *Calvet’s Web: Enlightenment and the Republic of Letters in Eighteenth-Century France* (Oxford; New York: Oxford University Press, 2002) 
+L. W. B Brockliss, *Calvet’s Web: Enlightenment and the Republic of Letters in Eighteenth-Century France* (Oxford; New York: Oxford University Press, 2002)
 
-Deborah Neill, *Networks in Tropical Medicine: Internationalism, Colonialism, and the Rise of a Medical Specialty, 1890–1930* (Stanford University Press, 2012) 
+Deborah Neill, *Networks in Tropical Medicine: Internationalism, Colonialism, and the Rise of a Medical Specialty, 1890–1930* (Stanford University Press, 2012)
 
 Oliver Janz and Daniel Schönpflug, *Gender History in a Transnational Perspective: Networks, Biographies, Gender Orders* (Berghahn Books, 2014)
 

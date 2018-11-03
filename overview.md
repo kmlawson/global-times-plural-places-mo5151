@@ -3,9 +3,9 @@
 
 ## Overview
 
-*Alternating 2 Hour Seminar and 1-2 Hour Surgery Session* 
+*Alternating 2 Hour Seminar and 1-2 Hour Surgery Session*
 
-### MO5151 Global Times - Plural Places 1
+### MO5151 Global Times - Plural Spaces 1
 
 Meets Monday 11:00-13:00 in Room 2.21 St Katharine's Lodge unless otherwise notified by your tutor.
 
@@ -26,8 +26,8 @@ Week 11 - **Networks** - **Konrad**
 *Note:* Week 5 is a special joint session with the MLitt in Intellectual History and will be held on Thursday 18 Oct 11:00 in the Old Seminar Room, 71 South St
 
 
-### MO5152 Global Times - Plural Places	2
-	
+### MO5152 Global Times - Plural Spaces	2
+
 Week 1 - **Thinking Space** - **Konrad**  
 Week 2 - Surgery Session - **Emma**  
 Week 3 - **Empires and Oceans as Transnational Space** - **Emma**  
@@ -58,7 +58,7 @@ John Clark jfc2@
 Emma Hart efh2@  
 Dawn Hollis - dawn.hollis@  
 
-### Description	
+### Description
 
 MO5151 is the first of a two-part core module series for the MLitt in Transnational and Spatial History and offers a strong foundation in the major approaches to comparative and transnational history as well as the emerging field of spatial history. This first semester introduces the origins of these new ways of looking at the past, as well as some of the major methodological challenges faced. The course then shifts to consider transnational agents, networks, and new approaches to doing history between the micro and macro scales.
 
@@ -87,7 +87,7 @@ This essay is most of all a challenge due to its short word limit. One of the sk
 
 This essay should apply what you have learned so far and explore a question or theme related to transnational, global, or spatial history but do so empirically, that is, make use of historical primary sources to develop and argument about a particular case or answer a more focused analytical question. It should, of course, engage with existing historiography but is a chance for you to practice the skills of conducting your own original research on an area of transnational global, or spatial history. Please look to historical journals for examples of how journal articles focus in on a particular case and develop an argument around it. Again, however, the limited space you have for this essay makes it essential that you use your space wisely, choose a focus that allows you to develop points in depth, and not try to do too many different things in your essay.
 
-You may wish to choose a topic that is related but not directly on the main area of interest for your dissertation, but keep in mind that you will not be able to reuse parts of this essay in that future work. You should ideally be spending at least a part of every week from the beginning of the semester evaluating potential sources and topics for this essay, and especially from the independent learning week on you should devote a significant proportion of your time to working on this essay. 
+You may wish to choose a topic that is related but not directly on the main area of interest for your dissertation, but keep in mind that you will not be able to reuse parts of this essay in that future work. You should ideally be spending at least a part of every week from the beginning of the semester evaluating potential sources and topics for this essay, and especially from the independent learning week on you should devote a significant proportion of your time to working on this essay.
 
 * Do I have a clearly identifiable, falsifiable, and non-trivial argument or answer an analytic question that takes an original approach, explores new sources, or goes beyond simply restating or summarising the existing scholarship?
 * Have I chosen a scope that is manageable for a short research essay of this kind, allowing me to explore concrete points in sufficient detail to make an original and well-developed contribution?
@@ -97,11 +97,8 @@ You may wish to choose a topic that is related but not directly on the main area
 * Does the essay avoid long quotations from secondary works whenever possible? Do I instead summarise, without plagiarising, and cite the work of secondary work except when the particular wording or language is key to the argument I wish to make?
 * Does the essay have a clear conclusion which restates the main points and then makes some effort to contex- tualise the findings in the broader issues of the course?
 
-**MO5152 Spring:** 
+**MO5152 Spring:**
 
 *More information on the spring semester can be found in the spring handbook*
 
-4,000 empirical research essay - The second semester has a single research essay which is slightly longer than the fall, but should reflect your developing writing and research skills. 
-
-
-
+4,000 empirical research essay - The second semester has a single research essay which is slightly longer than the fall, but should reflect your developing writing and research skills.
